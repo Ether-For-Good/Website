@@ -32,5 +32,6 @@ This version of the website is just a minimum viable product (MVP). It is curren
 
 Ideally **EtherForGood** will become a registered nonprofit. If it is deemed necessary to the success of the initiative, there is a chance that **EtherForGood** may start taking a minuscule percentage of the winnings. All funds donated or collected would go to covering operating costs, marketing, and paying developers.
 
+### Get Involved
 
-
+**Ether For Good** needs help in order to make the dream a reality! Have an idea for a new game or lottery? Want to take the website to the next level? Interested in supporting us financially? Contact us through email at ether4good@gmail.com!

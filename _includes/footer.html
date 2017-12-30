@@ -1,0 +1,24 @@
+<footer class="mdl-mini-footer">
+    <div class="mdl-mini-footer__left-section">
+        <p>
+            {{ site.description }}
+        </p>
+        <ul class="mdl-mini-footer__link-list">
+            <li>
+                <a href="{{ site.baseurl }}/">Home</a>
+            </li>
+            {% for page in site.pages %}
+            {% if page.title %}
+            <li>
+                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="mdl-mini-footer__right-section">
+        <p>ether4good@gmail.com</p>
+        <p><a href="https://www.reddit.com/user/EtherForGood/" target="blank">/u/EtherForGood</a></p>
+        <p><a href="https://github.com/EtherForGood" target="blank">GitHub</a></p>
+    </div>
+</footer>

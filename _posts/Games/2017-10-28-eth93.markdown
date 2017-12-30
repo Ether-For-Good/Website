@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "ETH93"
+author: ETH93
+date:   2017-10-28 17:40:06
+categories: jekyll update
+image: /games/eth93.png
+description: Lottery Smart Contract with a cut of revenue going to charity.
+---
+
+### Description
+
+The ETH93 smart contract offers a simple, entirely transparent lottery game running off the Ethereum blockchain. Each day, a lottery is held, and a random number is generated to determine the winner. 93% of ticket sales go to the winner and 5% go to an established charity. Our smart contract code has been verified on Etherscan and we welcome any criticism.
+
+### Charity
+
+[Heifer International's](https://www.heifer.org/) mission is to end hunger and poverty.
+
+### Links
+
+[Official Website](https://www.eth93.com/)
+
+[Twitter](https://twitter.com/ethereum93)
+
+[State of the DApps page](https://www.stateofthedapps.com/dapps/eth93)
+
+[Etherscan Verification](https://etherscan.io/address/0xdd2ee38f9993c0bc1c1b5b9798bc4deff66cac4a#code)
+
+### Status
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The ETH93 smart contract is paused for now (not selling tickets) while we confirm exactly where this project stands legally.</p>&mdash; eth93 (@ethereum93) <a href="https://twitter.com/ethereum93/status/934613828154802177?ref_src=twsrc%5Etfw">November 26, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**This Page was created by the EtherForGood team, and not those behind ETH93. It was found on [State of the Dapps](https://www.stateofthedapps.com/dapps/eth93)**

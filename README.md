@@ -28,7 +28,7 @@ Ideally **EtherForGood** will become a registered nonprofit. If it is deemed nec
 
 ### Get Involved
 
-**Ether For Good** needs help in order to make the dream a reality! Have an idea for a new game or lottery? Want to take the website to the next level? Interested in supporting us financially? Contact us through email at ether4good@gmail.com!
+**Ether For Good** needs help in order to make the dream a reality! Have an idea for a new game or lottery? Want to take the website to the next level? Contact us through email at ether4good@gmail.com!
 
-
+ Interested in supporting us financially? Send donations to our Ether wallet at: 0x6C9f808d1cB681c7c2D1A06a10381bb78D1B4116
 
